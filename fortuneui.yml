@@ -1,6 +1,6 @@
 fortuneService:
-  scheme: http
-  address: localhost:5000
+  scheme: https
+  address: fortuneservice-scroggy-intransigeancy.apps.selma.cf-app.com/
   randomFortunePath: api/fortunes/random
   allFortunesPath: api/fortunes/all
 
